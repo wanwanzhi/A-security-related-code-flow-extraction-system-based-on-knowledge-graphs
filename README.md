@@ -1,7 +1,8 @@
 
 # 基于知识图谱的安全相关代码流提取系统
 
-<img width="921" alt="image" src="https://github.com/DM-1C0N/-/assets/121347600/9f947aba-7ef7-4e0b-b075-b687257e32d0">
+<img width="908" alt="image" src="https://github.com/DM-1C0N/-/assets/121347600/d96ff312-5f63-4948-870e-9fa6db923024">
+
 
 
 ## 项目研究目的
